@@ -99,3 +99,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 # QR-code-component
+# Ms-QR-code-component
